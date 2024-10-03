@@ -1,7 +1,9 @@
+import DataDisplay from "./dataDisplay";
+
 export default function Apple() {
     return (
         <div>
-            <h1>Apple</h1>
+            <DataDisplay/>
         </div>
     );
 }

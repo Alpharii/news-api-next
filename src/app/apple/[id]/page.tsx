@@ -4,6 +4,7 @@ import { useParams } from "next/navigation";
 
 export default function AppleId() {
     const { id } = useParams();
+    
 
     return (
         <div>

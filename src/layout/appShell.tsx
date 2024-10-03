@@ -9,7 +9,6 @@ export default function AppShell() {
     return (
         <div>
             {!disableNavbar.includes(pathName) && <Navbar/>}
-            <h1>AppShell</h1>
         </div>
     );
 }
