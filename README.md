@@ -18,4 +18,3 @@ Next News adalah sebuah aplikasi berita yang dikembangkan menggunakan Next.js, T
 * NewsAPI sebagai API yang digunakan https://newsapi.org/
 
 
-## Gambar Pembantu
