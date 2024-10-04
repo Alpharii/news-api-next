@@ -1,10 +1,10 @@
-import Apple from "./apple/page"
+import DataDisplay from "./services/dataDisplay";
+
 
 export default function Home() {
   return (
     <div>
-      <Apple/>
-      <h1>Home</h1>
+      <DataDisplay news ="home"/>
     </div>
   );
 }

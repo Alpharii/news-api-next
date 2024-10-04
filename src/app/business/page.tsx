@@ -1,9 +1,9 @@
 import DataDisplay from "../services/dataDisplay";
 
-export default function Apple() {
+export default function Business() {
     return (
         <div>
-            <DataDisplay news ="apple"/>
+            <DataDisplay news ="business"/>
         </div>
     );
 }

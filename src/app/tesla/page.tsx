@@ -1,7 +1,9 @@
+import DataDisplay from "../services/dataDisplay";
+
 export default function Tesla() {
     return (
         <div>
-            <h1>Tesla</h1>
+            <DataDisplay news ="tesla"/>
         </div>
     );
 }
